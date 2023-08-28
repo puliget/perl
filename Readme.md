@@ -1,1 +1,0 @@
-this tell about uvm topic concept
